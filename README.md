@@ -10,13 +10,10 @@
 
 🤝 **I’m looking for help with**
 - Backend architecture (Node.js, Express, databases)
-- Integrating blockchain logic with web apps
 - Turning raw data into meaningful visual insights
 
 🌱 **I’m currently learning**
-- React and modern frontend practices
 - DSA in C++
-- PostgreSQL, Supabase & stored procedures
 - Blockchain fundamentals and smart-contract integration
 - Data analysis using Python (NumPy, Matplotlib)
 
