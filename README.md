@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>A Flight Price Tracker web app (MERN + Supabase)<br><br>A Blockchain-based Agriculture Insurance system <br>👯 I’m looking to collaborate on<br><br>MERN stack and full-stack web projects<br><br>Blockchain-based applications <br><br>Projects involving data analysis or dashboards<br>🤝 I’m looking for help with<br><br>Backend architecture (Node.js, Express, databases)<br><br>Integrating blockchain logic with web apps<br><br>Turning raw data into meaningful visual insights<br><br>🌱 I’m currently learning<br><br>React and modern frontend practices<br><br>DSA in C++)<br><br>PostgreSQL, Supabase & stored procedures<br><br>Blockchain fundamentals and smart-contract integration<br><br>Data analysis using Python (NumPy, Matplotlib)<br><br>
+🔭 **I’m currently working on**
+- Flight Price Tracker web app (MERN + Supabase)
+- Blockchain-based Agriculture Insurance system
+
+👯 **I’m looking to collaborate on**
+- MERN stack and full-stack web projects
+- Blockchain-based applications
+- Projects involving data analysis or dashboards
+
+🤝 **I’m looking for help with**
+- Backend architecture (Node.js, Express, databases)
+- Integrating blockchain logic with web apps
+- Turning raw data into meaningful visual insights
+
+🌱 **I’m currently learning**
+- React and modern frontend practices
+- DSA in C++
+- PostgreSQL, Supabase & stored procedures
+- Blockchain fundamentals and smart-contract integration
+- Data analysis using Python (NumPy, Matplotlib)
+
 
 
 ## 🌐 Socials:
