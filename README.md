@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 **I’m currently working on**
 - Flight Price Tracker web app (MERN + Supabase)
-- Blockchain-based Agriculture Insurance system
+- Query Log Analyser
 
 👯 **I’m looking to collaborate on**
 - MERN stack and full-stack web projects
