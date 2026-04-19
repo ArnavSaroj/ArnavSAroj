@@ -27,7 +27,7 @@
 # 📊 GitHub Stats:
 ![Arnav's GitHub stats](https://github-readme-stats-beta-eight-82.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&cache_seconds=10)
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavSaroj&icon=0&color=0)](https://visitcount.itsvg.in)
 
