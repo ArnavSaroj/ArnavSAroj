@@ -1,11 +1,10 @@
 # 💫 About Me:
 🔭 **I’m currently working on**
-- Flight Price Tracker web app (MERN + Supabase)
+- Flight Price Tracker web app (PERN + Supabase)
 - Query Log Analyser
 
 👯 **I’m looking to collaborate on**
 - MERN stack and full-stack web projects
-- Blockchain-based applications
 - Projects involving data analysis or dashboards
 
 🤝 **I’m looking for help with**
@@ -14,7 +13,7 @@
 
 🌱 **I’m currently learning**
 - DSA in C++
-- Blockchain fundamentals and smart-contract integration
+-Advanced Sql
 - Data analysis using Python (NumPy, Matplotlib)
 
 
