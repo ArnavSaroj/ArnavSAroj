@@ -30,4 +30,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArnavSaroj&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Arnav Saroj profile views](https://u8views.com/api/v1/github/profiles/178799881/views/day-week-month-total-count.svg)](https://u8views.com/github/ArnavSaroj)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
