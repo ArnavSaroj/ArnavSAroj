@@ -74,7 +74,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 <img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Arnav's GitHub stats" />
 </td>
 <td>
-<img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -90,7 +90,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution" width="100%" alt="Activity Graph" />
 
 </div>
 
