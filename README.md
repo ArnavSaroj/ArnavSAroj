@@ -1,35 +1,108 @@
-# 💫 About Me:
-🔭 **I’m currently working on**
-- Flight Price Tracker web app (PERN + Supabase)
-- Query Log Analyser
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-👯 **I’m looking to collaborate on**
-- MERN stack and full-stack web projects
-- Projects involving data analysis or dashboards
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:1e40af&height=220&section=header&text=Arnav%20Saroj&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Systems%20Thinker%20%C2%B7%20Go%20%2B%20Node.js&descAlignY=56&descSize=18&descColor=cdd6f4" width="100%" />
 
-🤝 **I’m looking for help with**
-- Backend architecture (Node.js, Express, databases)
-- Turning raw data into meaningful visual insights
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="https://github.com/ArnavSaroj">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&height=45&lines=Building+distributed+systems;Rate+limiters%2C+WALs%2C+and+scraping+engines;Backend+%40+ZenUp+Health;Go+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
+</a>
 
-🌱 **I’m currently learning**
-- DSA in C++
--Advanced Sql
-- Data analysis using Python (NumPy, Matplotlib)
+</div>
 
+<br>
 
+<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-saroj-809324322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavsaroj42@gmail.com) 
+I work on the unglamorous layer — the rate limiter that holds under load, the write-ahead log that survives a crash, the scraper that quietly pulls ~100 routes a night across 4 airlines. I'm a backend & systems engineer who's currently deep in distributed systems with Go and working through *Designing Data-Intensive Applications*. 3rd-year CS @ KJ Somaiya, Mumbai (2028) — I build the parts that don't make the demo but keep it running.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![Arnav's GitHub stats](https://github-readme-stats-beta-eight-82.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400)
+<br>
 
-![Top Languages](https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&cache_seconds=43200)
----
-[![](https://visitcount.itsvg.in/api?id=ArnavSaroj&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ===================== CURRENTLY BUILDING ===================== -->
+## 🛠️ Currently Building
 
+**[`goratelimiter`](https://github.com/ArnavSaroj/goratelimiter)** &nbsp;—&nbsp; Distributed rate limiter in **Go**. Token-bucket algorithm backed by atomic **Redis + Lua** scripts, with an in-memory fallback, Docker packaging, and a Prometheus-style `/metrics` endpoint.
 
-[![Arnav Saroj profile views](https://u8views.com/api/v1/github/profiles/178799881/views/day-week-month-total-count.svg)](https://u8views.com/github/ArnavSaroj)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**`WAL`** &nbsp;—&nbsp; A Write-Ahead Log in **C++**. Binary log format with **CRC32** integrity checks and **LSN**-based crash recovery.
+
+<sub>Also in the workshop: **Skymate** (distributed flight scraper — Node.js · BullMQ · Redis · PostgreSQL) · a **SQL Data Warehouse** (medallion architecture, T-SQL ETL) · **Quad-Tree image compression** (which earned an organic ⭐ from a stranger).</sub>
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Arnav's GitHub stats" />
+</td>
+<td>
+<img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=ArnavSaroj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<!-- ===================== SOCIALS ===================== -->
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-saroj-809324322)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsaroj42@gmail.com)
+
+</div>
+
+<br>
+
+<!-- ===================== VISITOR COUNTER ===================== -->
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=ArnavSaroj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:5b21b6&height=120&section=footer" width="100%" />
