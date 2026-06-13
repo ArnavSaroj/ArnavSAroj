@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/ArnavSaroj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=720&height=50&lines=Building+distributed+systems;Rate+limiters%2C+WALs%2C+and+scraping+engines;Designing+for+failure%2C+not+the+happy+path;Go+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=720&height=50&lines=Building+distributed+systems;Rate+limiters%2C+WALs%2C+and+scraping+engines;Reading+DDIA%2C+learning+Go;Go+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,18 +15,18 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-I work on the unglamorous layer — the rate limiter that holds under load, the write-ahead log that survives a crash, the scraper that quietly pulls ~100 routes a night across 4 airlines. I'm a backend & systems engineer currently deep in distributed systems with Go and working through *Designing Data-Intensive Applications*. 3rd-year CS @ KJ Somaiya, Mumbai (2028) — I build the parts that don't make the demo but keep it running.
+I'm a backend and systems engineer. Most of what I build sits below the UI: rate limiters, write-ahead logs, job queues, flight scrapers. Lately I've been learning distributed systems with Go and reading Designing Data-Intensive Applications. I'm in my 3rd year of CS at KJ Somaiya, Mumbai, graduating in 2028.
 
 <br>
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
 ## 🛠️ Currently Building
 
-**[`Limitd`](https://github.com/ArnavSaroj/Limitd)** &nbsp;—&nbsp; Distributed rate limiter in **Go**. Token-bucket algorithm backed by atomic **Redis + Lua** scripts, with an in-memory fallback, Docker packaging, and a Prometheus-style `/metrics` endpoint.
+**[`Limitd`](https://github.com/ArnavSaroj/Limitd)** is a distributed rate limiter in Go. It runs a token bucket algorithm backed by atomic Redis and Lua scripts, falls back to an in-memory store when Redis is down, ships in Docker, and exposes a `/metrics` endpoint.
 
-**[`WAL`](https://github.com/ArnavSaroj/WAL-write-ahead-log)** &nbsp;—&nbsp; A Write-Ahead Log in **C++**. Binary log format with **CRC32** integrity checks and **LSN**-based crash recovery.
+**[`WAL`](https://github.com/ArnavSaroj/WAL-write-ahead-log)** is a Write-Ahead Log written in C++. It has a binary log format, CRC32 integrity checks, and LSN-based crash recovery.
 
-<sub>Also in the workshop: **Skymate** (distributed flight scraper — Node.js · BullMQ · Redis · PostgreSQL) · a **SQL Data Warehouse** (medallion architecture, T-SQL ETL) · **Quad-Tree image compression** (which earned an organic ⭐ from a stranger).</sub>
+<sub>A few other things I've built: **Skymate**, a distributed flight scraper on Node.js, BullMQ, Redis and PostgreSQL; a **SQL Data Warehouse** using medallion architecture and T-SQL ETL pipelines; and a **Quad Tree image compressor** that somehow picked up a star from a stranger.</sub>
 
 <br>
 
