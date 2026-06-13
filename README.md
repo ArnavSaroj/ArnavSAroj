@@ -91,7 +91,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=Arnav's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
