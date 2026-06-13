@@ -1,11 +1,11 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:1e40af&height=220&section=header&text=Arnav%20Saroj&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Systems%20Thinker%20%C2%B7%20Go%20%2B%20Node.js&descAlignY=56&descSize=18&descColor=cdd6f4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:5b21b6,100:1e40af&height=240&section=header&text=Arnav%20Saroj&fontSize=72&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Backend%20Engineer%20%C2%B7%20Systems%20Thinker%20%C2%B7%20Go%20%2B%20Node.js&descAlignY=54&descSize=18&descColor=cdd6f4" width="100%" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/ArnavSaroj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&height=45&lines=Building+distributed+systems;Rate+limiters%2C+WALs%2C+and+scraping+engines;Backend+%40+ZenUp+Health;Go+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=720&height=50&lines=Building+distributed+systems;Rate+limiters%2C+WALs%2C+and+scraping+engines;Designing+for+failure%2C+not+the+happy+path;Go+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,16 +15,16 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-I work on the unglamorous layer — the rate limiter that holds under load, the write-ahead log that survives a crash, the scraper that quietly pulls ~100 routes a night across 4 airlines. I'm a backend & systems engineer who's currently deep in distributed systems with Go and working through *Designing Data-Intensive Applications*. 3rd-year CS @ KJ Somaiya, Mumbai (2028) — I build the parts that don't make the demo but keep it running.
+I work on the unglamorous layer — the rate limiter that holds under load, the write-ahead log that survives a crash, the scraper that quietly pulls ~100 routes a night across 4 airlines. I'm a backend & systems engineer currently deep in distributed systems with Go and working through *Designing Data-Intensive Applications*. 3rd-year CS @ KJ Somaiya, Mumbai (2028) — I build the parts that don't make the demo but keep it running.
 
 <br>
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
 ## 🛠️ Currently Building
 
-**[`goratelimiter`](https://github.com/ArnavSaroj/goratelimiter)** &nbsp;—&nbsp; Distributed rate limiter in **Go**. Token-bucket algorithm backed by atomic **Redis + Lua** scripts, with an in-memory fallback, Docker packaging, and a Prometheus-style `/metrics` endpoint.
+**[`Limitd`](https://github.com/ArnavSaroj/Limitd)** &nbsp;—&nbsp; Distributed rate limiter in **Go**. Token-bucket algorithm backed by atomic **Redis + Lua** scripts, with an in-memory fallback, Docker packaging, and a Prometheus-style `/metrics` endpoint.
 
-**`WAL`** &nbsp;—&nbsp; A Write-Ahead Log in **C++**. Binary log format with **CRC32** integrity checks and **LSN**-based crash recovery.
+**[`WAL`](https://github.com/ArnavSaroj/WAL-write-ahead-log)** &nbsp;—&nbsp; A Write-Ahead Log in **C++**. Binary log format with **CRC32** integrity checks and **LSN**-based crash recovery.
 
 <sub>Also in the workshop: **Skymate** (distributed flight scraper — Node.js · BullMQ · Redis · PostgreSQL) · a **SQL Data Warehouse** (medallion architecture, T-SQL ETL) · **Quad-Tree image compression** (which earned an organic ⭐ from a stranger).</sub>
 
@@ -63,6 +63,17 @@ I work on the unglamorous layer — the rate limiter that holds under load, the 
 
 <br>
 
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavSaroj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+<br>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
@@ -80,6 +91,30 @@ I work on the unglamorous layer — the rate limiter that holds under load, the 
 </table>
 
 <img src="https://streak-stats.demolab.com?user=ArnavSaroj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=Arnav's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnavSaroj/ArnavSaroj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArnavSaroj/ArnavSaroj/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ArnavSaroj/ArnavSaroj/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -105,4 +140,4 @@ I work on the unglamorous layer — the rate limiter that holds under load, the 
 </div>
 
 <!-- ===================== FOOTER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:5b21b6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,40:5b21b6,100:0f0c29&height=120&section=footer" width="100%" />
