@@ -63,6 +63,16 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <br>
 
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArnavSaroj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+<br>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
@@ -91,7 +101,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=Arnav's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -125,7 +135,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 <!-- ===================== VISITOR COUNTER ===================== -->
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ArnavSaroj&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ArnavSaroj&label=Profile+Views&color=7aa2f7&style=for-the-badge)
 
 </div>
 
