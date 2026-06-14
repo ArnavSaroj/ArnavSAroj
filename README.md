@@ -35,6 +35,18 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <br>
 
+<!-- ===================== SYSTEM SPOTLIGHT ===================== -->
+## ⚙️ System Spotlight — Limitd
+
+<div align="center">
+
+<!-- Commit the SVG to assets/limitd-architecture.svg in your repo -->
+<img src="./assets/limitd-architecture.svg" width="100%" alt="Limitd architecture: requests hit the token bucket, round-trip to Redis, and fail over to an in-memory store when Redis goes down" />
+
+</div>
+
+<br>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
 
@@ -87,11 +99,9 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <img src="https://streak-stats.demolab.com?user=ArnavSaroj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br>
 
 </div>
 
-<br>
 
 <!-- ===================== 3D CONTRIBUTION CALENDAR ===================== -->
 ## 🧊 Contribution Landscape
@@ -115,6 +125,8 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 </div>
 
 <br>
+
+
 
 <!-- ===================== SOCIALS ===================== -->
 ## 🌐 Connect
