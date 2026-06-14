@@ -116,17 +116,6 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 <br>
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArnavSaroj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies" />
-
-</div>
-
-<br>
-
 <!-- ===================== SOCIALS ===================== -->
 ## 🌐 Connect
 
