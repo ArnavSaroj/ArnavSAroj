@@ -31,7 +31,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 **[`WAL`](https://github.com/ArnavSaroj/WAL-write-ahead-log)** — a Write-Ahead Log in C++. Binary log format, CRC32 integrity checks, and LSN-based crash recovery.
 
-<sub>A few other things I've built: **Skymate**, a distributed flight scraper on Node.js, BullMQ, Redis and PostgreSQL; a **SQL Data Warehouse** using medallion architecture and T-SQL ETL pipelines; and a **Quad Tree image compressor** that somehow picked up a star from a stranger.</sub>
+<sub>A few other things I've built: **Skymate**, a distributed flight scraper on Node.js, BullMQ, Redis and PostgreSQL; a **SQL Data Warehouse** using medallion architecture and T-SQL ETL pipelines; and a **Quad Tree image compressor** .</sub>
 
 <br>
 
