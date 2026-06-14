@@ -36,7 +36,7 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 <br>
 
 <!-- ===================== SYSTEM SPOTLIGHT ===================== -->
-## ⚙️ System Spotlight — Limitd
+## ⚙️ Limitd :My Custom Built Rate Limiter
 
 <div align="center">
 
