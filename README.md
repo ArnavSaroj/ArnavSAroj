@@ -31,21 +31,10 @@ I'm a backend and systems engineer. Most of what I build sits below the UI: rate
 
 **[`WAL`](https://github.com/ArnavSaroj/WAL-write-ahead-log)** — a Write-Ahead Log in C++. Binary log format, CRC32 integrity checks, and LSN-based crash recovery.
 
-<sub>A few other things I've built: **Skymate**, a distributed flight scraper on Node.js, BullMQ, Redis and PostgreSQL; a **SQL Data Warehouse** using medallion architecture and T-SQL ETL pipelines; and a **Quad Tree image compressor** .</sub>
+A few other things I've built: **Skymate**, a distributed flight scraper on Node.js, BullMQ, Redis and PostgreSQL; a **SQL Data Warehouse** using medallion architecture and T-SQL ETL pipelines; and a **Quad Tree image compressor** .
 
 <br>
 
-<!-- ===================== SYSTEM SPOTLIGHT ===================== -->
-## ⚙️ Limitd :My Custom Built Rate Limiter
-
-<div align="center">
-
-<!-- Commit the SVG to assets/limitd-architecture.svg in your repo -->
-<img src="./.assets/limitd-architecture.svg" width="100%" alt="Limitd architecture: requests hit the token bucket, round-trip to Redis, and fail over to an in-memory store when Redis goes down" />
-
-</div>
-
-<br>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
