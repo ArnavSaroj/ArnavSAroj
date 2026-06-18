@@ -86,7 +86,6 @@ A few other things I've built: **Skymate**, a distributed flight scraper on Node
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=ArnavSaroj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
 </div>
