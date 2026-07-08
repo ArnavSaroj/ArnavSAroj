@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/ArnavSaroj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=760&height=50&lines=Building+distributed+systems+in+Go;Rate+limiters%2C+WALs%2C+and+scraping+engines;Backed+by+Redis%2C+Postgres%2C+and+a+lot+of+coffee; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=760&height=50&lines=Building+distributed+systems+in+Go;Rate+limiters%2C+WALs%2C+and+scraping+engines;Backed+by+Redis%2C+Postgres%2C+and+a+lot+of+coffee" alt="Typing SVG" />
 </a>
 
 </div>
