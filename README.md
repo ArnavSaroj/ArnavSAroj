@@ -108,7 +108,7 @@ A few other things I've built: **Skymate**, a distributed flight scraper on Node
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits%20Over%20Time" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavSaroj&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits%20Over%20Time" width="100%" alt="Activity Graph" />
 
 </div>
 
