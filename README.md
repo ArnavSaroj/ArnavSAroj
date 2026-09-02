@@ -78,7 +78,7 @@ A few other things I've built: **Skymate**, a distributed flight scraper on Node
 <table>
 <tr>
 <td>
-<img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Arnav's GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=ArnavSaroj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Arnav's GitHub stats" />
 </td>
 <td>
 <img height="180" src="https://github-readme-stats-beta-eight-82.vercel.app/api/top-langs/?username=ArnavSaroj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
